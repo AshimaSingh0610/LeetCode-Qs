@@ -91,14 +91,31 @@ Here's what’s currently available in the repository:
 
 ## 🙌 Contributing
 
-We welcome contributions to improve this repository! To contribute:
+We love contributions! 
+Help us make Fresh Feeds even better by contributing to the project. 
+Your input is highly valued. 🤗
 
-1. **Fork the Project**:
-   - Click the "Fork" button at the top right of this repository page.
+- Fork the Project
 
-2. **Create Your Feature Branch**:
-   ```bash
-   git checkout -b feature/AmazingFeature
+- Create your Feature Branch 
+```
+(git checkout -b feature/AmazingFeature)
+```
+- Commit your Changes 
+```
+(git commit -m 'Add some AmazingFeature')
+```
+
+- Push to the Branch 
+```
+(git push origin feature/AmazingFeature)
+```
+- Open a Pull Request
+1. Navigate to the "Pull Requests" tab in the repository.
+2. Click "New Pull Request".
+3. Select your feature branch and compare it with the main branch.
+4. Add a descriptive title and comments about your changes.
+5. Click "Create Pull Request".
 
 
 ## ✍️ Authors <a name="authors"></a>
