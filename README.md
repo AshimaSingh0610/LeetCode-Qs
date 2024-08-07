@@ -93,6 +93,14 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
+## Array
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
