@@ -62,6 +62,7 @@ Here's what’s currently available in the repository:
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Dynamic Programming
 |  |
@@ -87,6 +88,11 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0065-valid-number) |
+| [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
