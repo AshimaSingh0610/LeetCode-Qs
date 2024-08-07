@@ -75,6 +75,7 @@ Here's what’s currently available in the repository:
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Topological Sort
 |  |
@@ -101,6 +102,14 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
