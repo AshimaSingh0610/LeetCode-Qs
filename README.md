@@ -105,6 +105,7 @@ Here's what’s currently available in the repository:
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 ## Greedy
@@ -122,6 +123,7 @@ Here's what’s currently available in the repository:
 ## Matrix
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
@@ -145,10 +147,19 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Sorting
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
