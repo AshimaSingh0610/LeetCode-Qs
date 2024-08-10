@@ -64,6 +64,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Dynamic Programming
@@ -106,6 +107,7 @@ Here's what’s currently available in the repository:
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
@@ -141,6 +143,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 ## Trie
@@ -172,6 +175,14 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
