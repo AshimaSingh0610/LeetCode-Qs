@@ -108,6 +108,7 @@ Here's what’s currently available in the repository:
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0391-perfect-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
@@ -183,6 +184,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
