@@ -111,6 +111,7 @@ Here's what’s currently available in the repository:
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
@@ -131,6 +132,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
@@ -173,6 +175,7 @@ Here's what’s currently available in the repository:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
@@ -190,6 +193,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0391-perfect-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
