@@ -97,6 +97,7 @@ Here's what’s currently available in the repository:
 | [0065-valid-number](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0065-valid-number) |
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
+| [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 ## Recursion
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 ## Strongly Connected Component
 |  |
 | ------- |
