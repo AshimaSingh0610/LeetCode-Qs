@@ -73,6 +73,7 @@ Here's what’s currently available in the repository:
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Tree
 |  |
@@ -116,6 +117,7 @@ Here's what’s currently available in the repository:
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
