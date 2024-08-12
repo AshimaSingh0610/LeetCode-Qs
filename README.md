@@ -158,6 +158,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 ## Trie
@@ -197,6 +198,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
@@ -228,6 +230,14 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
+## Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
