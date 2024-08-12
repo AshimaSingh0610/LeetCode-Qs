@@ -165,6 +165,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Binary Search
 |  |
 | ------- |
