@@ -107,6 +107,7 @@ Here's what’s currently available in the repository:
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0040-combination-sum-ii) |
 | [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
@@ -241,6 +242,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
