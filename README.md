@@ -65,6 +65,7 @@ Here's what’s currently available in the repository:
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ Here's what’s currently available in the repository:
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Tree
 |  |
@@ -92,6 +94,7 @@ Here's what’s currently available in the repository:
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## String
 |  |
