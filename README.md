@@ -124,6 +124,7 @@ Here's what’s currently available in the repository:
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -133,6 +134,7 @@ Here's what’s currently available in the repository:
 | [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
+| [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
 ## Depth-First Search
 |  |
 | ------- |
