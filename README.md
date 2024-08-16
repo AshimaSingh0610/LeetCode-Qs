@@ -76,6 +76,7 @@ Here's what’s currently available in the repository:
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
+| [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Tree
 |  |
@@ -103,6 +104,7 @@ Here's what’s currently available in the repository:
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
+| [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 ## Recursion
 |  |
 | ------- |
