@@ -78,6 +78,7 @@ Here's what’s currently available in the repository:
 | [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Here's what’s currently available in the repository:
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
 | ------- |
