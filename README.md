@@ -62,6 +62,7 @@ Here's what’s currently available in the repository:
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -71,6 +72,7 @@ Here's what’s currently available in the repository:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
@@ -171,6 +173,7 @@ Here's what’s currently available in the repository:
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
@@ -229,6 +232,7 @@ Here's what’s currently available in the repository:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
