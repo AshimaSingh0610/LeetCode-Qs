@@ -130,6 +130,7 @@ Here's what’s currently available in the repository:
 | [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -180,6 +181,7 @@ Here's what’s currently available in the repository:
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
+| [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 ## Trie
@@ -238,6 +240,7 @@ Here's what’s currently available in the repository:
 | [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0407-trapping-rain-water-ii) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
+| [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Strongly Connected Component
 |  |
@@ -275,6 +278,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0479-largest-palindrome-product) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
