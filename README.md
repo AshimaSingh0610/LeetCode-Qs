@@ -67,6 +67,7 @@ Here's what’s currently available in the repository:
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0479-largest-palindrome-product) |
 | [0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
@@ -270,6 +271,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
