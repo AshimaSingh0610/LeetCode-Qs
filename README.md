@@ -28,26 +28,39 @@ Welcome to the LeetCode Practice Repository! This repository is dedicated to pra
 Here's what’s currently available in the repository:
 
 ### 🔢 Math
-- **[Count Ways to Build Rooms in an Ant Colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Explore mathematical approaches for solving problems related to room configurations in an ant colony.
+- **[0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii)**: Solutions to problems involving ugly numbers, using mathematical approaches.
+- **[0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words)**: Converts integers to their English word representation.
+- **[0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed)**: Implementations for data structure with insertion, deletion, and random access.
+- **[0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs)**: A mathematical approach to solving the problem of determining the minimum number of pigs needed.
+- **[0479-largest-palindrome-product](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0479-largest-palindrome-product)**: Solutions to find the largest palindrome product of two numbers.
+- **[0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard)**: Problems and solutions related to keyboard simulation.
+- **[0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid)**: Magic squares problems and their solutions.
 
 ### 💡 Dynamic Programming
-- **[Count Ways to Build Rooms in an Ant Colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Dynamic programming solutions for optimizing room building configurations.
+- **[0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii)**: Dynamic programming approach for generating ugly numbers.
+- **[0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes)**: Finding the maximum number of envelopes you can put inside one another.
+- **[0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump)**: Dynamic programming solutions for the frog jump problem.
+- **[0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum)**: Split an array into parts with the largest sum minimized.
+- **[0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence)**: Counting arithmetic slices in subsequences.
+- **[0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions)**: Counting the number of repetitions of a string in a repeated string.
+- **[0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard)**: Dynamic programming approach to keyboard simulation.
+- **[2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost)**: Finding the maximum number of points with given cost constraints.
 
 ### 🌲 Tree
-- **[Count Ways to Build Rooms in an Ant Colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Tree-based solutions to tackle problems involving room configurations.
+- **[0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream)**: Solution for finding the k-th largest element in a stream.
+- **[1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Tree-based solutions for room-building problems in an ant colony.
 
 ### 🔗 Graph
-- **[Count Ways to Build Rooms in an Ant Colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Graph-based approaches to understanding room-building connectivity.
+- **[0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary)**: Reconstructing an itinerary from a list of tickets.
+- **[1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Graph-based solutions for room-building problems.
 
 ### 🏗️ Topological Sort
-- **[Count Ways to Build Rooms in an Ant Colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Techniques for topological sorting applied to room-building scenarios.
+- **[1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Applying topological sort to room-building scenarios.
 
 ### ✨ Combinatorics
-- **[Count Ways to Build Rooms in an Ant Colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Combinatorial methods for solving room-building problems.
+- **[0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs)**: Combinatorial methods for solving the problem of determining the minimum number of pigs needed.
+- **[1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony)**: Combinatorial solutions for room-building problems.
 
-## 📋 Current Files and Directories
-
-- **`1313-count-ways-to-build-rooms-in-an-ant-colony`**: Contains problem statements and solution implementations for counting ways to build rooms in an ant colony.
 
 ## 🛠️ Future Plans
 
