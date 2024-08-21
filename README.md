@@ -96,6 +96,7 @@ Here's what’s currently available in the repository:
 | [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 | [0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -126,6 +127,7 @@ Here's what’s currently available in the repository:
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 | [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
+| [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
 ## Recursion
 |  |
 | ------- |
