@@ -307,6 +307,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
