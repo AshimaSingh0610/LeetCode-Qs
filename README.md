@@ -153,6 +153,7 @@ Here's what’s currently available in the repository:
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -220,6 +221,7 @@ Here's what’s currently available in the repository:
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0483-smallest-good-base](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -236,6 +238,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -325,6 +328,22 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
