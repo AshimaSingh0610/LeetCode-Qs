@@ -82,6 +82,7 @@ Here's what’s currently available in the repository:
 | [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0483-smallest-good-base) |
+| [0564-find-the-closest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -131,6 +132,7 @@ Here's what’s currently available in the repository:
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 | [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
+| [0564-find-the-closest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
 ## Recursion
