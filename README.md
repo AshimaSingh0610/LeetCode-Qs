@@ -99,6 +99,7 @@ Here's what’s currently available in the repository:
 | [0458-poor-pigs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0546-remove-boxes) |
 | [0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
@@ -159,6 +160,7 @@ Here's what’s currently available in the repository:
 | [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0517-super-washing-machines) |
+| [0546-remove-boxes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0546-remove-boxes) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -340,6 +342,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
+| [0546-remove-boxes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0546-remove-boxes) |
 ## Divide and Conquer
 |  |
 | ------- |
