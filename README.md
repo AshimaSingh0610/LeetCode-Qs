@@ -158,6 +158,7 @@ Here's what’s currently available in the repository:
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -174,6 +175,7 @@ Here's what’s currently available in the repository:
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
 ## Depth-First Search
