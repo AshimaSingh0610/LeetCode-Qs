@@ -109,6 +109,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Graph
@@ -185,6 +186,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Eulerian Circuit
@@ -338,6 +340,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Memoization
 |  |
 | ------- |
