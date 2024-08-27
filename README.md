@@ -118,6 +118,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
+| [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Here's what’s currently available in the repository:
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -290,6 +292,7 @@ Here's what’s currently available in the repository:
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -366,6 +369,10 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
