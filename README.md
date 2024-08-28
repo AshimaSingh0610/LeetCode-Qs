@@ -175,6 +175,7 @@ Here's what’s currently available in the repository:
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
@@ -195,6 +196,7 @@ Here's what’s currently available in the repository:
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Here's what’s currently available in the repository:
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -266,10 +269,12 @@ Here's what’s currently available in the repository:
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
 | ------- |
