@@ -83,6 +83,7 @@ Here's what’s currently available in the repository:
 | [0479-largest-palindrome-product](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0483-smallest-good-base) |
 | [0564-find-the-closest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0564-find-the-closest-palindrome) |
+| [0587-erect-the-fence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -166,6 +167,7 @@ Here's what’s currently available in the repository:
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
 | [0517-super-washing-machines](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0546-remove-boxes) |
+| [0587-erect-the-fence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0587-erect-the-fence) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
@@ -222,6 +224,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
+| [0587-erect-the-fence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0587-erect-the-fence) |
 ## Hash Table
 |  |
 | ------- |
