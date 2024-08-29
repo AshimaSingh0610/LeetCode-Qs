@@ -118,6 +118,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
@@ -194,6 +195,7 @@ Here's what’s currently available in the repository:
 | [0145-binary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0332-reconstruct-itinerary) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
@@ -229,6 +231,7 @@ Here's what’s currently available in the repository:
 | [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 ## Trie
 |  |
@@ -273,6 +276,7 @@ Here's what’s currently available in the repository:
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 ## Design
