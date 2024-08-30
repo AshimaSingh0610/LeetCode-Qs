@@ -122,6 +122,7 @@ Here's what’s currently available in the repository:
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Here's what’s currently available in the repository:
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2803-modify-graph-edge-weights) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
