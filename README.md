@@ -142,6 +142,7 @@ Here's what’s currently available in the repository:
 | [0466-count-the-repetitions](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0466-count-the-repetitions) |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
 | [0564-find-the-closest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0564-find-the-closest-palindrome) |
+| [0591-tag-validator](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
 ## Recursion
@@ -362,6 +363,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0488-zuma-game](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0488-zuma-game) |
+| [0591-tag-validator](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0591-tag-validator) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Memoization
 |  |
