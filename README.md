@@ -395,6 +395,10 @@ Here's what’s currently available in the repository:
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2803-modify-graph-edge-weights) |
+## Database
+|  |
+| ------- |
+| [0601-human-traffic-of-stadium](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
