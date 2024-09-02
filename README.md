@@ -103,6 +103,7 @@ Here's what’s currently available in the repository:
 | [0546-remove-boxes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0629-k-inverse-pairs-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0629-k-inverse-pairs-array) |
 | [0650-2-keys-keyboard](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
