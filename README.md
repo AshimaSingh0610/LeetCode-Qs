@@ -147,6 +147,7 @@ Here's what’s currently available in the repository:
 | [0591-tag-validator](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Recursion
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Here's what’s currently available in the repository:
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Geometry
 |  |
