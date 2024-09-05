@@ -89,6 +89,7 @@ Here's what’s currently available in the repository:
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
+| [2155-find-missing-observations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Here's what’s currently available in the repository:
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2155-find-missing-observations) |
 ## Greedy
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Here's what’s currently available in the repository:
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2155-find-missing-observations) |
 ## Geometry
 |  |
 | ------- |
