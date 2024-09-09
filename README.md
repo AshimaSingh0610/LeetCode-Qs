@@ -191,6 +191,7 @@ Here's what’s currently available in the repository:
 | [2067-maximum-number-of-points-with-cost](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Here's what’s currently available in the repository:
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ Here's what’s currently available in the repository:
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2411-spiral-matrix-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -349,6 +352,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
+| [2411-spiral-matrix-iv](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2411-spiral-matrix-iv) |
 ## Doubly-Linked List
 |  |
 | ------- |
