@@ -150,6 +150,7 @@ Here's what’s currently available in the repository:
 | [0591-tag-validator](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0664-strange-printer) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Recursion
 |  |
@@ -259,6 +260,7 @@ Here's what’s currently available in the repository:
 | [0906-walking-robot-simulation](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Trie
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Here's what’s currently available in the repository:
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Ordered Set
 |  |
@@ -384,6 +387,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
 | ------- |
