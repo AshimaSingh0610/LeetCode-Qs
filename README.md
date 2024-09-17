@@ -94,6 +94,7 @@ Here's what’s currently available in the repository:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
 | [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
@@ -140,6 +141,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
 | [0065-valid-number](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0065-valid-number) |
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
@@ -380,6 +382,7 @@ Here's what’s currently available in the repository:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Enumeration
 |  |
