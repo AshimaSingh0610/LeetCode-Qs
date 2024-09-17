@@ -180,6 +180,7 @@ Here's what’s currently available in the repository:
 | [0587-erect-the-fence](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0587-erect-the-fence) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
@@ -206,6 +207,7 @@ Here's what’s currently available in the repository:
 | [0517-super-washing-machines](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0517-super-washing-machines) |
 | [0624-maximum-distance-in-arrays](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0624-maximum-distance-in-arrays) |
 | [0630-course-schedule-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Depth-First Search
@@ -259,6 +261,7 @@ Here's what’s currently available in the repository:
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0432-all-oone-data-structure) |
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -287,6 +290,7 @@ Here's what’s currently available in the repository:
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Prefix Sum
 |  |
@@ -338,6 +342,7 @@ Here's what’s currently available in the repository:
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0630-course-schedule-iii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2803-modify-graph-edge-weights) |
@@ -385,6 +390,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Game Theory
 |  |
 | ------- |
