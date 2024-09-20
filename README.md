@@ -143,6 +143,7 @@ Here's what’s currently available in the repository:
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
 | [0065-valid-number](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0065-valid-number) |
+| [0214-shortest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0273-integer-to-english-words) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
 | [0420-strong-password-checker](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0420-strong-password-checker) |
@@ -448,6 +449,18 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0920-uncommon-words-from-two-sentences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
 
 ## 🙌 Contributing
