@@ -467,7 +467,7 @@ Here's what’s currently available in the repository:
 ## 🙌 Contributing
 
 We love contributions! 
-Help us make Fresh Feeds even better by contributing to the project. 
+Help us make this even better by contributing to the project. 
 Your input is highly valued. 🤗
 
 - Fork the Project
