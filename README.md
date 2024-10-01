@@ -194,6 +194,7 @@ Here's what’s currently available in the repository:
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -273,6 +274,7 @@ Here's what’s currently available in the repository:
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Trie
 |  |
 | ------- |
@@ -453,6 +455,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Rolling Hash
 |  |
 | ------- |
