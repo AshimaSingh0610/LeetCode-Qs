@@ -192,6 +192,7 @@ Here's what’s currently available in the repository:
 | [0921-spiral-matrix-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -273,6 +274,7 @@ Here's what’s currently available in the repository:
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Trie
@@ -299,6 +301,7 @@ Here's what’s currently available in the repository:
 | [0630-course-schedule-iii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1256-rank-transform-of-an-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
