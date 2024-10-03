@@ -197,6 +197,7 @@ Here's what’s currently available in the repository:
 | [1497-design-a-stack-with-increment-operation](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
@@ -277,6 +278,7 @@ Here's what’s currently available in the repository:
 | [1256-rank-transform-of-an-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1694-make-sum-divisible-by-p) |
 ## Trie
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Here's what’s currently available in the repository:
 | [0410-split-array-largest-sum](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0410-split-array-largest-sum) |
 | [1240-stone-game-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Ordered Set
 |  |
