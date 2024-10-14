@@ -207,6 +207,7 @@ Here's what’s currently available in the repository:
 | [2155-find-missing-observations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2411-spiral-matrix-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Here's what’s currently available in the repository:
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Here's what’s currently available in the repository:
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1325-path-with-maximum-probability) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2803-modify-graph-edge-weights) |
 ## Strongly Connected Component
 |  |
