@@ -158,6 +158,7 @@ Here's what’s currently available in the repository:
 | [0920-uncommon-words-from-two-sentences](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3195-separate-black-and-white-balls](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Here's what’s currently available in the repository:
 | [0890-lemonade-change](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0890-lemonade-change) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/3195-separate-black-and-white-balls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -404,6 +406,7 @@ Here's what’s currently available in the repository:
 | [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/3195-separate-black-and-white-balls) |
 ## Enumeration
 |  |
 | ------- |
