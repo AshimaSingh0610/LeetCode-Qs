@@ -95,6 +95,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0403-frog-jump) |
@@ -167,6 +168,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0040-combination-sum-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0336-palindrome-pairs) |
