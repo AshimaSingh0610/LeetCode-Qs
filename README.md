@@ -95,6 +95,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0264-ugly-number-ii) |
@@ -169,6 +170,7 @@ Here's what’s currently available in the repository:
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0330-patching-array) |
@@ -447,6 +449,7 @@ Here's what’s currently available in the repository:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
