@@ -124,6 +124,7 @@ Here's what’s currently available in the repository:
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1313-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1313-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Graph
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Here's what’s currently available in the repository:
 | [0999-regions-cut-by-slashes](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Here's what’s currently available in the repository:
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
 | ------- |
@@ -344,6 +347,7 @@ Here's what’s currently available in the repository:
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -393,6 +397,7 @@ Here's what’s currently available in the repository:
 | [0145-binary-tree-postorder-traversal](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Data Stream
 |  |
 | ------- |
