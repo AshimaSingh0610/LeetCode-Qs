@@ -218,6 +218,7 @@ Here's what’s currently available in the repository:
 | [2411-spiral-matrix-iv](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2411-spiral-matrix-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -436,6 +437,7 @@ Here's what’s currently available in the repository:
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0480-sliding-window-median](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -445,6 +447,7 @@ Here's what’s currently available in the repository:
 | ------- |
 | [0476-number-complement](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AshimaSingh0610/LeetCode-Qs/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Stack
 |  |
 | ------- |
